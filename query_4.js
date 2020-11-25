@@ -1,0 +1,1 @@
+db.people.find({"weight":{"$lt":"68, 71.5"}})
